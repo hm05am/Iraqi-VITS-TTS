@@ -1,3 +1,0 @@
-# Example filelists — replace with your actual data paths
-# Format: wav_path|text
-# /content/drive/MyDrive/TTS/dataset/audio_001.wav|مرحبا شلونك
